@@ -9,7 +9,7 @@ from gtts import gTTS
 from mutagen.mp3 import MP3
 import io
 
-bot = Bot("AppName", auth="zrxutqvvshxmmfzjzvayfqkzfjnoaqlp")
+bot = Bot("AppName", auth=)
 target ="g0BNopQ0cac9a1adfe570cad15f513c5"
 bot.sendMessage(target, 'اپراتور ددپول فعال شده🤖✅')
 def hasAds(msg):
